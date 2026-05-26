@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">About Me :</h1><br><br>🔭 I’m currently working on  <br>• AI-powered Python applications  <br>• Dynamic Credibility Search Agent  <br>• Machine Learning-based intelligent systems  <br><br>👯 I’m looking to collaborate on  <br>• Open-source AI/ML projects  <br>• Python automation & web applications  <br>• Innovative student-led tech solutions  <br><br>🤝 I’m looking for help with  <br>• Model deployment & cloud integration  <br>• Production-level ML workflows  <br>• Research and advanced AI concepts  <br><br>🌱 I’m currently learning  <br>• Machine Learning  <br>• Data Structures & Algorithms  <br>• Japanese language  <br><br>💬 Ask me about  <br>• Python  <br>• APIs & ML projects  <br>• Beginner development journey  <br><br>⚡ Fun fact  <br>• Engineering + AI + business enthusiast building technology with real-world impact 🚀
+🔭 I’m currently working on building AI-powered and Python-based intelligent systems.<br><br>👯 I’m looking to collaborate on open-source AI and ML projects.<br><br>🤝 I’m looking for help with AI deployment, model optimization, and scalable systems.<br><br>🌱 I’m currently learning Artificial Intelligence, Machine Learning, and DSA.<br><br>💬 Ask me about Python, AI projects, and ML.<br><br>⚡ Fun fact: Engineering student exploring AI, innovation, and tech-driven solutions 🚀
 
 
 # 💻 Tech Stack:
